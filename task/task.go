@@ -1,7 +1,7 @@
 package task
 
 import (
-	"gTest/TaskTest/logger"
+	"TimedTasks/logger"
 	"github.com/robfig/cron/v3"
 	"os"
 	"os/signal"
